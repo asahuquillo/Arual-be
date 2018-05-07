@@ -1,0 +1,7 @@
+{
+  "driver": "msnodesqlv8",
+  "server": "DESKTOP-1FR9J36\\SQLEXPRESS",
+  "database": "Arual_db",
+  "requestTimeout" :600000000,
+  "options": { "trustedConnection": "true" }
+}
